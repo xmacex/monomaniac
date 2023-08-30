@@ -1,7 +1,11 @@
+-- Monomaniac. A mod for mono everything.
+--
+-- By xmacex
+
 local DEBUG = true
 local mod = require 'core/mods'
 
-local jack = require 'mono-input/lib/jack'
+local jack = require 'monomaniac/lib/jack'
 
 local WIDTH  = 128
 local HEIGHT = 64
