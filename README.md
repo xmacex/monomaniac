@@ -18,7 +18,7 @@ norns
 
 ## Documentation
 
-Install the mod, and it will appear `SYSTEM > MODS`, disabled by default. Enable it, restart norns. `E3` clockwise will enable mono input, or more precisely routing left input to both left and right channels. Clockwise will return back to routing left input to left channel and right input to right channel.
+Install the mod, and it will appear `SYSTEM > MODS`, disabled by default. Enable it, restart norns. `E3` clockwise ↷ will enable mono input, or more precisely routing left input to both left and right channels. Counterclockwise U+21B6 ↶ will return back to routing left input to left channel and right input to right channel.
 
 Note the mod will not currently save state and does not *actually* know if it is in mono or stereo mode.. sorry this is a little sketchy. Use your ears! Rebooting norns will always return norns to the nornal stereo mode.
 
